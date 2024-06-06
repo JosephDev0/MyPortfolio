@@ -121,7 +121,7 @@
 
           <ul class="social-list">
             <!-- <li class="social-item">
-              <a href="#" class="social-link">
+              <a href="/" class="social-link">
                 <ion-icon name="logo-facebook" />
               </a>
             </li> -->
@@ -798,7 +798,7 @@ During my internship at GVR Info System Pvt. Ltd., I had the opportunity to hone
                 data-filter-item
                 data-category="applications"
               >
-                <a href="#" target="_blank">
+                <a href="/" target="_blank">
                   <figure class="project-img">
                     <div class="project-item-icon-box">
                       <ion-icon name="eye-outline" />
@@ -822,7 +822,7 @@ During my internship at GVR Info System Pvt. Ltd., I had the opportunity to hone
                 data-filter-item
                 data-category="web design"
               >
-                <a href="#">
+                <a href="/">
                   <figure class="project-img">
                     <div class="project-item-icon-box">
                       <ion-icon name="eye-outline" />
@@ -842,7 +842,7 @@ During my internship at GVR Info System Pvt. Ltd., I had the opportunity to hone
                 data-filter-item
                 data-category="web design"
               >
-                <a href="">
+                <a href="/">
                   <figure class="project-img">
                     <div class="project-item-icon-box">
                       <ion-icon name="eye-outline" />
@@ -862,7 +862,7 @@ During my internship at GVR Info System Pvt. Ltd., I had the opportunity to hone
                 data-filter-item
                 data-category="web design"
               >
-                <a href="#">
+                <a href="/">
                   <figure class="project-img">
                     <div class="project-item-icon-box">
                       <ion-icon name="eye-outline" />
@@ -882,7 +882,7 @@ During my internship at GVR Info System Pvt. Ltd., I had the opportunity to hone
                 data-filter-item
                 data-category="web development"
               >
-                <a href="">
+                <a href="/">
                   <figure class="project-img">
                     <div class="project-item-icon-box">
                       <ion-icon name="eye-outline" />
@@ -902,7 +902,7 @@ During my internship at GVR Info System Pvt. Ltd., I had the opportunity to hone
                 data-filter-item
                 data-category="applications"
               >
-                <a href="">
+                <a href="/">
                   <figure class="project-img">
                     <div class="project-item-icon-box">
                       <ion-icon name="eye-outline" />
@@ -938,7 +938,7 @@ During my internship at GVR Info System Pvt. Ltd., I had the opportunity to hone
           <section class="blog-posts">
             <ul class="blog-posts-list">
               <li class="blog-post-item">
-                <a href="">
+                <a href="/">
                   <figure class="blog-banner-box">
                     <img
                       src="./blog-1.jpg"
@@ -969,7 +969,7 @@ During my internship at GVR Info System Pvt. Ltd., I had the opportunity to hone
               </li>
 
               <li class="blog-post-item">
-                <a href="">
+                <a href="/">
                   <figure class="blog-banner-box">
                     <img
                       src="./blog-2.jpg"
@@ -1000,7 +1000,7 @@ During my internship at GVR Info System Pvt. Ltd., I had the opportunity to hone
               </li>
 
               <li class="blog-post-item">
-                <a href="">
+                <a href="/">
                   <figure class="blog-banner-box">
                     <img
                       src="./blog-3.jpg"
@@ -1029,7 +1029,7 @@ During my internship at GVR Info System Pvt. Ltd., I had the opportunity to hone
               </li>
 
               <li class="blog-post-item">
-                <a href="">
+                <a href="/">
                   <figure class="blog-banner-box">
                     <img
                       src="./blog-4.jpg"
@@ -1060,7 +1060,7 @@ During my internship at GVR Info System Pvt. Ltd., I had the opportunity to hone
               </li>
 
               <li class="blog-post-item">
-                <a href="">
+                <a href="/">
                   <figure class="blog-banner-box">
                     <img
                       src="./blog-5.jpg"
@@ -1091,7 +1091,7 @@ During my internship at GVR Info System Pvt. Ltd., I had the opportunity to hone
               </li>
 
               <li class="blog-post-item">
-                <a href="">
+                <a href="/">
                   <figure class="blog-banner-box">
                     <img
                       src="./blog-6.jpg"
