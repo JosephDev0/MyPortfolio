@@ -539,7 +539,7 @@
                   Krishnaveni Talent School
                 </h4>
 
-                <span>2012 — 2017</span>
+                <span>2012 — 2018</span>
 
                 <p class="timeline-text ">
                   Attending Krishnaveni Talent School was a transformative experience that broadened my horizons. The school's emphasis on global perspectives and cultural exchange allowed me to connect with students from diverse backgrounds, fostering a deep appreciation for diversity. The nurturing environment, coupled with innovative teaching methods, equipped me with the skills and mindset to thrive in an interconnected world.
@@ -644,7 +644,7 @@
 
               <li class="skills-item">
                 <div class="title-wrapper">
-                  <h5 class="h5">Bootstrap 5</h5>
+                  <h5 class="h5">REACT JS </h5>
                   <!-- <data value="95">95%</data> -->
                 </div>
 
@@ -677,7 +677,7 @@
 
               <li class="skills-item">
                 <div class="title-wrapper">
-                  <h5 class="h5">C#</h5>
+                  <h5 class="h5">NODE JS</h5>
                   <!-- <data value="80">80%</data> -->
                 </div>
 
